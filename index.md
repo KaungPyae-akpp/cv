@@ -1,10 +1,11 @@
 <html lang="en" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>Aung Kaung Pyae Paing</title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
+  
 <body>
   <table cellspacing="20">
     <tr>
